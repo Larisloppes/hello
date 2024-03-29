@@ -34,3 +34,6 @@ Atualmente, trabalho na área de FP&A, integrando meus conhecimentos em dados e 
 ---
 
 Estou sempre aberta a colaborar em projetos e ideias inovadoras. Se você quiser entrar em contato ou se conectar, não hesite em me seguir ou enviar uma mensagem através das plataformas acima!
+
+
+Desenvolvido por Larissa Lopes com ❤️ e muita atenção aos detalhes.
