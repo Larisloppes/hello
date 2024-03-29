@@ -1,39 +1,50 @@
-# Olá, eu sou a Larissa 👋
+# Larissa: Uma Jornada em Dados e Finanças :bar_chart: :dollar:
 
-## Sobre Mim
-Sou mãe, apaixonada por dados e finanças, e em constante aprendizado. Com 32 anos, nasci e cresci na periferia de São Paulo, onde aprendi a valorizar cada oportunidade. Me formei em Gestão Financeira e Ciências Contábeis, e atualmente estou expandindo meus horizontes com uma pós-graduação em Gestão e Análise Estratégica de Dados na PUC.
+<h1 align="center">Bem-vindos ao meu Perfil do GitHub!</h1>
 
-Atualmente, trabalho na área de FP&A, integrando meus conhecimentos em dados e finanças para gerar insights valiosos e direcionar decisões estratégicas.
+<div align="center">
+  <strong>Conectando Dados e Finanças com paixão e precisão 🚀</strong>
+</div>
 
-## Competências Técnicas
+<div align="center">
+  <p>Meu nome é Larissa, mãe, profissional de FP&A, apaixonada por análise estratégica de dados e finanças.</p>
+  <p>Explorando o mundo dos dados e finanças com as ferramentas mais atuais e práticas inovadoras.</p>
+  <p>Desfrute das minhas descobertas e colaborações! 😄</p>
+</div>
 
-### Análise de Dados
-- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-- ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) 
+## 📘 Sobre Mim
 
-## Experiência Profissional em Finanças
+- **Nome**: Larissa
+- **Idade**: 32 anos
+- **Formação**: Gestão Financeira e Ciências Contábeis
+- **Pós-Graduação**: Gestão e Análise Estratégica de Dados na PUC
+- **Experiência Profissional**: Rappi, Ambev e outros
 
-**Áreas de Especialização**
-- Contabilidade
-- Fiscal
-- Recursos Humanos
-- Financeiro
-- Planejamento Financeiro
+## 📊 Competências em Dados
 
-**Passagens Notáveis**
-- ![Rappi](https://img.shields.io/badge/Rappi-EE4D2D?style=for-the-badge&logo=rappi&logoColor=white) 
-- ![Ambev](https://img.shields.io/badge/Ambev-FCC00F?style=for-the-badge&logo=ambev&logoColor=white) 
+- `CSS`
+- `HTML`
+- `Python`
+- `SQL`
 
-## Conecte-se Comigo
+## 💼 Competências Financeiras
 
-- ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Linkedin](https://www.linkedin.com/in/larissa-lopes-30a23714b/)
-- ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/Larisloppes)
+- **Contabilidade**: Fundamentos sólidos em princípios contábeis e práticas fiscais.
+- **Fiscal**: Conhecimento abrangente da legislação tributária e fiscal.
+- **Recursos Humanos**: Gestão de recursos humanos com foco em eficiência e compliance.
+- **Financeiro**: Habilidades em operações financeiras e análise de investimentos.
+- **Planejamento Financeiro**: Experiência em orçamentação, previsão e planejamento estratégico.
+
+## 🤝 Conectar
+
+Adoro me conectar com pessoas que compartilham interesses semelhantes. Não hesite em se conectar comigo:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/larissa-lopes-30a23714b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://github.com/Larisloppes"><img src="https://img.icons8.com/fluent/48/000000/github.png" alt="GitHub"/></a>
+</p>
 
 ---
 
-Estou sempre aberta a colaborar em projetos e ideias inovadoras. Se você quiser entrar em contato ou se conectar, não hesite em me seguir ou enviar uma mensagem através das plataformas acima!
-
-
-Desenvolvido por Larissa Lopes com ❤️ e muita atenção aos detalhes.
+<div align="center">
+  <sub>
